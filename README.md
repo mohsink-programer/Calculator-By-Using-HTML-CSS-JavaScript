@@ -20,7 +20,7 @@ The calculator is straightforward to use. Simply:
 
 1. Enter numbers and operators ( +, -, *, / ) into the designated fields.
 2. Click the equals button (`=`) to perform the calculation.
-3. Use the clear button (`C`) to reset the input fields and start fresh.
+3. Use the clear button (`AC`) to reset the input fields and start fresh.
 
 ### Contributing
 
